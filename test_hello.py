@@ -1,7 +1,6 @@
 """
     Test hello.py
 """
-import pytest
 import pathlib
 
 def test_exist():
